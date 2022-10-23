@@ -15,14 +15,13 @@ def browser(request):
     browser_name = request.config.getoption("browser_name")
     if browser_name == "chrome":
         print("\nstart chrome browser for test..")
-        browser = webdriver.Chrome('/Users/dmitrijkalinin/PycharmProjects/finaltaskinstepic/chromedriver')
+        browser = webdriver.Chrome('./chromedriver')
     elif browser_name == "firefox":
         print("\nstart firefox browser for test..")
         options = Options()
         firefox_profile = FirefoxProfile()
-        firefox_profile.set_preference("javascript.enabled", False)
         options.profile = firefox_profile
-        browser = webdriver.Firefox(executable_path='/Users/dmitrijkalinin/PycharmProjects/finaltaskinstepic/geckodriver',options=options)
+        browser = webdriver.Firefox(executable_path='./geckodriver', options=options)
     else:
         print("Browser {} still is not implemented".format(browser_name))
     yield browser

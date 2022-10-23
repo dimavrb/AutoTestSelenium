@@ -292,3 +292,68 @@ UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadabl
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/np/s0xkx4r97_v77c5zr64r0fdm0000gn/T/rust_mozprofilePn6lh7/search.json.mozlz4", (void 0)))
 JavaScript error: http://selenium1py.pythonanywhere.com/en-gb/accounts/login/, line 624: ReferenceError: oscar is not defined
 1666453515782	Marionette	INFO	Stopped listening on port 49416
+1666533122004	geckodriver	INFO	Listening on 127.0.0.1:49598
+1666533123001	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/np/s0xkx4r97_v77c5zr64r0fdm0000gn/T/rust_mozprofile9dEGjy"
+2022-10-23 16:52:03.390 plugin-container[1074:27353] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-23 16:52:03.391 plugin-container[1074:27353] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-23 16:52:03.400 plugin-container[1074:27353] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-23 16:52:03.400 plugin-container[1074:27353] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-23 16:52:03.400 plugin-container[1074:27351] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-23 16:52:03.400 plugin-container[1074:27351] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666533123402	Marionette	INFO	Marionette enabled
+1666533123428	Marionette	INFO	Listening on port 49609
+Read port: 49609
+1666533123611	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/np/s0xkx4r97_v77c5zr64r0fdm0000gn/T/rust_mozprofile9dEGjy/search.json.mozlz4", (void 0)))
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/the-shellcoders-handbook_209/?promo=midsummer, line 614: ReferenceError: oscar is not defined
+1666533125998	Marionette	INFO	Stopped listening on port 49609
+1666533126562	geckodriver	INFO	Listening on 127.0.0.1:49652
+1666533127570	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/np/s0xkx4r97_v77c5zr64r0fdm0000gn/T/rust_mozprofiley5xu2s"
+2022-10-23 16:52:07.804 plugin-container[1087:27749] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-23 16:52:07.804 plugin-container[1087:27749] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-23 16:52:07.806 plugin-container[1087:27749] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-23 16:52:07.806 plugin-container[1087:27749] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-23 16:52:07.806 plugin-container[1087:27757] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-23 16:52:07.806 plugin-container[1087:27757] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666533127809	Marionette	INFO	Marionette enabled
+1666533127831	Marionette	INFO	Listening on port 49663
+Read port: 49663
+1666533127936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/np/s0xkx4r97_v77c5zr64r0fdm0000gn/T/rust_mozprofiley5xu2s/search.json.mozlz4", (void 0)))
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/the-shellcoders-handbook_209/?promo=midsummer, line 614: ReferenceError: oscar is not defined
+1666533130269	Marionette	INFO	Stopped listening on port 49663
+1666533130936	geckodriver	INFO	Listening on 127.0.0.1:49722
+1666533188450	geckodriver	INFO	Listening on 127.0.0.1:49746
+1666533188456	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/np/s0xkx4r97_v77c5zr64r0fdm0000gn/T/rust_mozprofile5rSkPF"
+2022-10-23 16:53:08.686 plugin-container[1156:28646] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-23 16:53:08.687 plugin-container[1156:28646] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-23 16:53:08.689 plugin-container[1156:28646] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-23 16:53:08.689 plugin-container[1156:28646] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-23 16:53:08.689 plugin-container[1156:28657] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-23 16:53:08.689 plugin-container[1156:28657] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666533188691	Marionette	INFO	Marionette enabled
+1666533188714	Marionette	INFO	Listening on port 49751
+Read port: 49751
+1666533188884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/np/s0xkx4r97_v77c5zr64r0fdm0000gn/T/rust_mozprofile5rSkPF/search.json.mozlz4", (void 0)))
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/the-shellcoders-handbook_209/?promo=midsummer, line 614: ReferenceError: oscar is not defined
+1666533191017	Marionette	INFO	Stopped listening on port 49751
+1666533191793	geckodriver	INFO	Listening on 127.0.0.1:49803
+1666533192803	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/np/s0xkx4r97_v77c5zr64r0fdm0000gn/T/rust_mozprofilewlwlAK"
+2022-10-23 16:53:13.036 plugin-container[1167:29001] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-23 16:53:13.036 plugin-container[1167:29001] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-23 16:53:13.038 plugin-container[1167:29001] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-23 16:53:13.038 plugin-container[1167:29001] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-10-23 16:53:13.038 plugin-container[1167:28999] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-10-23 16:53:13.038 plugin-container[1167:28999] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1666533193042	Marionette	INFO	Marionette enabled
+1666533193064	Marionette	INFO	Listening on port 49810
+Read port: 49810
+1666533193168	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/np/s0xkx4r97_v77c5zr64r0fdm0000gn/T/rust_mozprofilewlwlAK/search.json.mozlz4", (void 0)))
+JavaScript error: http://selenium1py.pythonanywhere.com/ru/catalogue/the-shellcoders-handbook_209/?promo=midsummer, line 614: ReferenceError: oscar is not defined
+1666533195275	Marionette	INFO	Stopped listening on port 49810
